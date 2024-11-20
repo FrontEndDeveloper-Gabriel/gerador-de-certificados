@@ -4,8 +4,8 @@
 Um sistema desenvolvido em Python para gerar certificados de cursos.
 
 # <h3>Detalhes <br>
- ● O código tem uma váriavel de armazenamento que dá acesso à um arquivo .CSV;
- ● Esse CSV tem os dados de alunos (nome, telefone e email);
+ ● O código tem uma váriavel de armazenamento que dá acesso à um arquivo .CSV; <br>
+ ● Esse CSV tem os dados de alunos (nome, telefone e email); <br>
  ● O código importa o nome dos alunos e os insere em um modelo de certificado pré-pronto.
 
 
