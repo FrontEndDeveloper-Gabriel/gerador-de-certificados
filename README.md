@@ -10,7 +10,7 @@ Um sistema desenvolvido em Python para gerar certificados de cursos.
 
 <br>
 <strong>
-Obs: nomes, emails e número de telefones gerados por IA.</strong>
+Obs: nomes, emails e números de telefones gerados por IA.</strong>
 </h3>
 
 # <h3>Requisitos:
