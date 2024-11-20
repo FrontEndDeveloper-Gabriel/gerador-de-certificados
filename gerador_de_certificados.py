@@ -7,7 +7,7 @@ dados = pd.read_csv('dados.csv')
 
 titulo = "CERTIFICADO DE PARTICIPAÇÃO"
 subtitulo = "Este certificado comprova que"
-nome = "GABRIEL RIBEIRO SILVA"
+nome = "NOME DA PESSOA"
 texto2 = "concluiu com êxito o curso GRATUITO DE PYTHON ministrado por"
 texto3 = "PROF. SAUER entre 18/11/2024 a 21/11/2024,"
 texto4 = "com carga horária de aproximadamente 8 horas"
