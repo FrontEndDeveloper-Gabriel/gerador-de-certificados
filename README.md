@@ -27,7 +27,7 @@
 ## 📌 Requeriments
  ● Have a text editor on your computer; <br>
  ● Have <a href="https://code.visualstudio.com/download"> Visual Studio Code</a> or <a href="https://www.python.org/downloads/">IDLE Python</a> installed on your computer.
-
+ ● Access <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> and run it in a new notebook.
 
 <br>
 
